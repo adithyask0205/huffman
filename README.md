@@ -59,5 +59,3 @@ The implementation uses a predefined reference signal: `[3 1 3 2 1 2 1 1 3]` to 
   - H = -Σ(p_i × log₂(p_i))
 - **Average Codeword Length**: Actual average length of Huffman codes
 - **Efficiency**: Ratio of entropy to average codeword length (expressed as percentage)
-
-This project is provided as educational material for understanding Huffman coding principles. 
